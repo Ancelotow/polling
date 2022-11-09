@@ -1,0 +1,19 @@
+{
+  "name": "polling",
+  "version": "1.0.0",
+  "description": "Projet ESGI durant le cours de \"Web temps réel\" sur le Polling",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "Owen ANCELOT",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
